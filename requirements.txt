@@ -1,118 +1,118 @@
-altair==5.0.1
-appdirs==1.4.4
-appnope==0.1.3
-attrs==23.1.0
-audioread==3.0.0
-backcall==0.2.0
-backports.zoneinfo==0.2.1
-blinker==1.6.2
+# altair==5.0.1
+# appdirs==1.4.4
+# appnope==0.1.3
+# attrs==23.1.0
+# audioread==3.0.0
+# backcall==0.2.0
+# backports.zoneinfo==0.2.1
+# blinker==1.6.2
 bokeh==2.4.3
-cachetools==5.3.1
-certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_477u68wvzm/croot/certifi_1671487773341/work/certifi
-cffi==1.15.1
-chardet==3.0.4
-charset-normalizer==3.1.0
-click==8.1.3
-coqpit==0.0.17
-cycler==0.11.0
-decorator==5.1.1
-fonttools==4.38.0
-g2pK==0.9.4
-gitdb==4.0.10
-GitPython==3.1.31
-googletrans==3.1.0a0
-gTTS==2.3.2
-h11==0.9.0
-h2==3.2.0
-hpack==3.0.0
-hstspreload==2023.1.1
-httpcore==0.9.1
-httpx==0.13.3
-hyperframe==5.2.0
-idna==2.10
-importlib-metadata==6.7.0
-importlib-resources==5.12.0
-inflect==6.0.4
+# cachetools==5.3.1
+# certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_477u68wvzm/croot/certifi_1671487773341/work/certifi
+# cffi==1.15.1
+# chardet==3.0.4
+# charset-normalizer==3.1.0
+# click==8.1.3
+# coqpit==0.0.17
+# cycler==0.11.0
+# decorator==5.1.1
+# fonttools==4.38.0
+# g2pK==0.9.4
+# gitdb==4.0.10
+# GitPython==3.1.31
+# googletrans==3.1.0a0
+# gTTS==2.3.2
+# h11==0.9.0
+# h2==3.2.0
+# hpack==3.0.0
+# hstspreload==2023.1.1
+# httpcore==0.9.1
+# httpx==0.13.3
+# hyperframe==5.2.0
+# idna==2.10
+# importlib-metadata==6.7.0
+# importlib-resources==5.12.0
+# inflect==6.0.4
 ipython==7.34.0
-jamo==0.4.1
-jedi==0.18.2
-jieba==0.42.1
-Jinja2==3.1.2
-joblib==1.3.1
-JPype1==1.4.1
-jsonschema==4.17.3
-kiwisolver==1.4.4
-konlpy==0.6.0
-lazy_loader==0.2
-librosa==0.8.1
-llvmlite==0.39.1
-lxml==4.9.2
-markdown-it-py==2.2.0
-MarkupSafe==2.1.3
-matplotlib==3.5.3
-matplotlib-inline==0.1.6
-mdurl==0.1.2
-msgpack==1.0.5
-nltk==3.8.1
-numba==0.56.4
+# jamo==0.4.1
+# jedi==0.18.2
+# jieba==0.42.1
+# Jinja2==3.1.2
+# joblib==1.3.1
+# JPype1==1.4.1
+# jsonschema==4.17.3
+# kiwisolver==1.4.4
+# konlpy==0.6.0
+# lazy_loader==0.2
+# librosa==0.8.1
+# llvmlite==0.39.1
+# lxml==4.9.2
+# markdown-it-py==2.2.0
+# MarkupSafe==2.1.3
+# matplotlib==3.5.3
+# matplotlib-inline==0.1.6
+# mdurl==0.1.2
+# msgpack==1.0.5
+# nltk==3.8.1
+# numba==0.56.4
 numpy==1.21.6
-packaging==23.1
+# packaging==23.1
 pandas==1.3.5
-parso==0.8.3
-pexpect==4.8.0
-pickleshare==0.7.5
-Pillow==9.5.0
-pkgutil_resolve_name==1.3.10
-pooch==1.6.0
-prompt-toolkit==3.0.38
-protobuf==4.23.3
-ptyprocess==0.7.0
-pyarrow==12.0.1
-pycparser==2.21
-pydantic==1.10.10
-pydeck==0.8.1b0
-pydub==0.25.1
-Pygments==2.15.1
-Pympler==1.0.1
-pyparsing==3.1.0
-pypinyin==0.49.0
-pyrsistent==0.19.3
-pysbd==0.3.4
-python-dateutil==2.8.2
-python-mecab-ko==1.3.3
-python-mecab-ko-dic==2.1.1.post2
-pytz==2023.3
-pytz-deprecation-shim==0.1.0.post0
-PyYAML==6.0
-regex==2023.6.3
-requests==2.31.0
-resampy==0.4.2
-rfc3986==1.5.0
-rich==13.4.2
+# parso==0.8.3
+# pexpect==4.8.0
+# pickleshare==0.7.5
+# Pillow==9.5.0
+# pkgutil_resolve_name==1.3.10
+# pooch==1.6.0
+# prompt-toolkit==3.0.38
+# protobuf==4.23.3
+# ptyprocess==0.7.0
+# pyarrow==12.0.1
+# pycparser==2.21
+# pydantic==1.10.10
+# pydeck==0.8.1b0
+# pydub==0.25.1
+# Pygments==2.15.1
+# Pympler==1.0.1
+# pyparsing==3.1.0
+# pypinyin==0.49.0
+# pyrsistent==0.19.3
+# pysbd==0.3.4
+# python-dateutil==2.8.2
+# python-mecab-ko==1.3.3
+# python-mecab-ko-dic==2.1.1.post2
+# pytz==2023.3
+# pytz-deprecation-shim==0.1.0.post0
+# PyYAML==6.0
+# regex==2023.6.3
+# requests==2.31.0
+# resampy==0.4.2
+# rfc3986==1.5.0
+# rich==13.4.2
 scikit-learn==1.0.2
-scipy==1.7.3
-six==1.16.0
-smmap==5.0.0
-sniffio==1.3.0
-soundfile==0.12.1
-soxr==0.3.5
-SpeechRecognition==3.9.0
+# scipy==1.7.3
+# six==1.16.0
+# smmap==5.0.0
+# sniffio==1.3.0
+# soundfile==0.12.1
+# soxr==0.3.5
+# SpeechRecognition==3.9.0
 streamlit==1.23.1
 streamlit-bokeh-events==0.1.2
-tenacity==8.2.2
-threadpoolctl==3.1.0
-toml==0.10.2
-toolz==0.12.0
+# tenacity==8.2.2
+# threadpoolctl==3.1.0
+# toml==0.10.2
+# toolz==0.12.0
 torch==1.13.1
-tornado==6.2
-tqdm==4.65.0
-traitlets==5.9.0
-typing_extensions==4.7.0
-tzdata==2023.3
-tzlocal==4.3.1
+# tornado==6.2
+# tqdm==4.65.0
+# traitlets==5.9.0
+# typing_extensions==4.7.0
+# tzdata==2023.3
+# tzlocal==4.3.1
 Unidecode==1.3.6
 urllib3==2.0.3
-validators==0.20.0
-watchdog==3.0.0
-wcwidth==0.2.6
-zipp==3.15.0
+# validators==0.20.0
+# watchdog==3.0.0
+# wcwidth==0.2.6
+# zipp==3.15.0
